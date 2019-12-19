@@ -1,3 +1,16 @@
+# About auto_project
+Based on 
+```CMD
+https://github.com/KalleHallden/ProjectInitializationAutomation
+```
+This command sets a local and remote repo for new projects on your github acount
+
+```CMD
+new_project
+[Project Name] set_a_project_name
+```
+
+
 ### Install: 
 ```CMD
 1.- pip install -r requirements.txt
@@ -12,4 +25,9 @@
 ```CMD
 To run the script type in 'new_project' press enter
 set a name for your project press enter 
+```
+
+```CMD
+new_project
+[Project Name] set_a_project_name
 ```
